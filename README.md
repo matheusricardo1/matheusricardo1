@@ -1,5 +1,3 @@
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=900&color=blue&width=600&lines=Olá%2C+fico+feliz+em+ver+você+por+aqui!;Seja+bem-vindo+ao+meu+perfil!+%F0%9F%91%8B;Eu+sou+o+Matheus+Ricardo%2C+desenvolvedor+full-stack.;Confira+meus+projetos+e+vamos+criar+algo+novo! "Animation introducing Matheus Ricardo, passionate developer")
-
 # Matheus Ricardo Oliveira Lima
 
 #### 🚀 **Dev Full-Stack** | 🎓 **Estudante de Engenharia de Software na UFAM/IComp** | 💡 **Foco em NextJs e Django**  
